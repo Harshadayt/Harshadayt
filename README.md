@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshada Dhamne</h1>
+<h1 align="center">Hi 👋, I'm Harshada </h1>
 <h3 align="center">A passionate AI and ML Developer from India</h3>
 
 - 🔭 I’m currently working on **posic: A photo Pose suggestion application**
