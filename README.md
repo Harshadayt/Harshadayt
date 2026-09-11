@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshada.dhamneyt@gmail.com**
 
-- ⚡ Fun fact **I like to dance as well!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
